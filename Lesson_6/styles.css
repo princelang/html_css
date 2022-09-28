@@ -40,3 +40,20 @@ body {
     margin: 0px 0px 10px;
     padding: 10px;
 }
+/* Descendant Selections */
+
+.primary h2 {
+    font-family: helvetica;
+}
+
+.primary p em {
+    color: aqua;
+}
+
+.secondary p {
+    font-family: Helvetica;
+}
+
+.secondary em {
+    color: #fc3fff;
+}
