@@ -1,0 +1,20 @@
+/* Custom CSS */
+
+body {
+    background: #4d2d06;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #fff;
+    text-align: center;
+    font-size: 50px;
+}
+
+#beautiful {
+    background: #fff;
+    color: #4d2d06;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#charming {
+    background-color: aqua;
+    font-family: monospace;
+}
