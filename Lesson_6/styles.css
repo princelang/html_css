@@ -1,5 +1,11 @@
 /* Custom CSS */
 
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
 body {
     background: #4d2d06;
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -17,4 +23,20 @@ body {
 #charming {
     background-color: aqua;
     font-family: monospace;
+}
+
+.primary {
+    background: #222;
+    color: #eee;
+    font-size: 24px;
+    margin: 0px 0px 10px;
+    padding: 10px;
+}
+
+.secondary {
+    background: #eee;
+    color: #222;
+    font-size: 24px;
+    margin: 0px 0px 10px;
+    padding: 10px;
 }
