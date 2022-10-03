@@ -151,3 +151,15 @@ code {
     background: url(images/blue_background.jpg); background-repeat: repeat-x;
     background-position: bottom left;
 } 
+
+/* Styling Forms */
+
+#container {
+    background: ;
+    width: 800px;
+    margin: 0 auto;
+}
+form {
+    background-image: url(images/red_background.jpg);
+    
+}
