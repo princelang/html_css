@@ -156,10 +156,32 @@ code {
 
 #container {
     background: ;
-    width: 800px;
+    width: 500px;
     margin: 0 auto;
 }
 form {
     background-image: url(images/red_background.jpg);
-    
+    padding: 40px 20px 20px;
 }
+legend {
+    border: black 2px solid;
+    margin: 0 40px 50px;
+    background: url(images/blue_background.jpg) repeat;
+}
+
+legend h2 {
+    padding: 0 10px;
+}
+fieldset {
+    background: url(images/blue_background.jpg) top left repeat;
+}
+
+input {
+    display: block;
+    border: black 2px dotted;
+}
+label {
+    display: block;
+    border: red 1px solid;
+}
+
