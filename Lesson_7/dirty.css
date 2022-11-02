@@ -14,7 +14,7 @@ body {
     background: black url(images/background.jpg) top center no-repeat;
     font-size: 20px;
     font-family: helvetica Neue, helvetica;
-    font-weight: lighter;
+    font-weight:300;
     text-align: center;
     padding: 40px;
     color: #333;
