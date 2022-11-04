@@ -1,0 +1,46 @@
+/* Simple CSS for Udemy course */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background: #333;
+    color: #222;
+    font-family: helvetica, sans-serif;
+    text-align: center;
+}
+#container {
+    background: white;
+    width: 500px;
+    margin: 20px auto;
+    padding: 20px;
+}
+h1 {
+    margin: 0 0 20px;
+}
+p {
+    margin: 10px 0;
+}
+
+/* Styling Links */
+
+a:link {
+    color: #f42aa6;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #f42aa6;
+
+}
+
+a:hover {
+    color: #a50578;
+    text-decoration: underline;
+}
+
+a:active {
+    color: #000;
+}
+
