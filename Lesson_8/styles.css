@@ -44,3 +44,24 @@ a:active {
     color: #000;
 }
 
+#link-1:hover {
+    background: #333;
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+}
+
+#link-3 {
+    background: #90a505;
+    color: white;
+    padding: 5px;
+}
+
+#link-3:hover {
+    background: #a50578;
+    text-decoration: none;
+    border: #000 5px solid;
+}
+#link-4:hover {
+    color: #333;
+}
