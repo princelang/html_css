@@ -1,0 +1,20 @@
+/* CSS Floats */
+
+body {
+    width: 800px;
+    margin: 0 auto;
+}
+
+#floats {
+    background: #d41;
+}
+
+#floats #container {
+    background: white;
+    padding: 20px;
+}
+
+#prince1 {
+    float: left;
+    margin: 0 20px 0 0;
+}
