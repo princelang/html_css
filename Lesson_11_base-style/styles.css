@@ -1,6 +1,45 @@
-/* CSS Base Styles */
-
 /* Base Styles */
+
+body {
+    background-color: #fff;
+    font-family: Proxima Nova,Helvetica Neue,Helvetica,Arial,sans_serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.4;
+  }
+
+  div {
+    display: block;
+  }
+
+  h1 {
+    font-size: 2em;
+  }
+
+  h2 {
+    font-size: 0.75em;
+    font-weight: 600;
+    color: #687887;
+    text-transform: uppercase;
+
+  }
+
+  h3 {
+    font-size: 0.75em;
+    font-weight: 700;
+    color: #242b42;
+    margin: 0;
+  }
+
+  p {
+    color: #c1cdd6; /*Import and use design token $text_lt_lighter */
+  }
+
+  .card-pill {
+    color: #93a8b8;
+    font-weight: 700;
+    letter-spacing: -.03em;
+  } 
 /* Layout Styles */
 /* Model Styles */
 /* State Styles */
