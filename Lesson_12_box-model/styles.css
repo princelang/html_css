@@ -1,4 +1,46 @@
 /* Base Styles */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #fff;
+    font-family: Proxima Nova,Helvetica Neue,Helvetica,Arial,sans_serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.4;
+}
+
+img {
+    display: block;
+    border-radius: 100%;
+}
+
+
+h3 {
+    font-size: 28px;
+    font-weight: 100;
+    color: #242b42;
+    letter-spacing: -.01em;
+    line-height: 1.2;
+    margin: 0;
+    display: block;
+}
+
+h4 {
+    font-weight: 700;
+    color: #242b42;
+    margin: 0;
+    line-height: 1.2;
+    letter-spacing: -.03em;
+    display: block;
+}
+
+p {
+    color: #687887;
+}
 /* Layout Styles */
 /* Model Styles */
 /* State Styles */
